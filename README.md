@@ -1,8 +1,5 @@
 
-Tentu, berikut adalah contoh konversi struktur laporan yang saya berikan sebelumnya menjadi format Markdown:
 
-markdown
-Copy code
 # Skin Cancer Classification Report
 
 Report on using ResNet-18 for skin cancer classification.
